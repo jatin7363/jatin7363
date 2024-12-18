@@ -9,12 +9,11 @@
 
 - 📫 How to reach me **JatinGrover736327@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iamjatingrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamjatingrover" height="30" width="40" /></a>
+## ✉️ Connect with me:
+ <p align="left"> <a href="https://linkedin.com/in/iamjatingrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamjatingrover" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -77,10 +76,10 @@
   </a>
 </p>
 
-____________________________________________
+## 👨‍💻 My GitHub Stats
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin7363&" alt="jatin7363" /></p>
-____________________________________________
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin7363&show_icons=true&locale=en&layout=compact" alt="jatin7363" /></p>
-____________________________________________
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin7363" alt="jatin7363" /></a> </p>
-____________________________________________
